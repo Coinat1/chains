@@ -1,0 +1,19 @@
+{
+  "name": "CoinstaChain",
+  "chain": "CNTA",
+  "rpc": [
+    "https://api.dynu.com/v2/91f09171-532e-4607-b0a0-befd69de180e"
+    
+    
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "CoinstaChain",
+    "symbol": "CNTA",
+    "decimals": 18
+  },
+  "infoURL": "http://www coinsta.mywire.org",
+  "shortName": "CNTA",
+  "chainId": 1432,
+  "networkId": 1432
+}
